@@ -17,7 +17,7 @@
   红色：主体表格的框
   黄色：主体表格外第一个框（可接受，不用处理）
   蓝色：主体表格外第二个框（删掉）
-  ![image](https://github.com/user-attachments/assets/3e58d7df-6831-4264-90e3-c07789beb0dd)
+  ![image]([https://github.com/user-attachments/assets/3e58d7df-6831-4264-90e3-c07789beb0dd](https://github.com/he007209/Borehole-logs-Extractor-AutoCAD-/blob/main/%E6%A1%86.png))
 
 
 <pre>
