@@ -5,7 +5,7 @@
   ②分层信息（层底深度、剖面层号、时代成因等）
   ③土工样和标贯信息
 
-读写cad用到的库：https://github.com/reclosedev/pyautocad
+读写cad用到的库：[pyautocad](https://github.com/reclosedev/pyautocad)
 
 准备改下力学数据的识别方法...
 <a href="https://sm.ms/image/bJHOZvLt6zYEBRK" target="_blank"><img src="https://s2.loli.net/2025/06/12/bJHOZvLt6zYEBRK.png" ></a>
