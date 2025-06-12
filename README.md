@@ -8,7 +8,7 @@
 读写cad用到的库：https://github.com/reclosedev/pyautocad
 
 准备改下力学数据的识别方法...
-<a href="https://sm.ms/image/2Ca3UJgFHNTWDVZ" target="_blank"><img src="https://s2.loli.net/2025/06/12/2Ca3UJgFHNTWDVZ.png" ></a>
+<a href="https://sm.ms/image/bJHOZvLt6zYEBRK" target="_blank"><img src="https://s2.loli.net/2025/06/12/bJHOZvLt6zYEBRK.png" ></a>
 20250612
   右侧增加了一个文本输出控件，用来显示控制台的输出内容
 
