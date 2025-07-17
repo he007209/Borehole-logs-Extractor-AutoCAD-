@@ -10,6 +10,9 @@
 准备改下力学数据的识别方法...
   
 <a href="https://sm.ms/image/bJHOZvLt6zYEBRK" target="_blank"><img src="https://s2.loli.net/2025/06/12/bJHOZvLt6zYEBRK.png" ></a>
+
+20250717
+  程序输出控件改为可以展开或隐藏，避免填写信息时遮挡住太多地方
   
 20250612
   右侧增加了一个文本输出控件，用来显示控制台的输出内容
