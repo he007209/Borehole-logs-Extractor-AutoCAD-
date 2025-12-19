@@ -11,6 +11,9 @@
   
 <a href="https://sm.ms/image/bJHOZvLt6zYEBRK" target="_blank"><img src="https://s2.loli.net/2025/06/12/bJHOZvLt6zYEBRK.png" ></a>
 
+20251219
+  KIMI：从 1.10.x 开始，ttkbootstrap 把 `ScrolledText` 从主包挪到了子模块 `ttkbootstrap.scrolled`，并且类名也改成了驼峰写法 `ScrolledText`（原来是全小写 `scrolledtext`）。  
+
 20250717
   程序输出控件改为可以展开或隐藏，避免填写信息时遮挡住太多地方
   
